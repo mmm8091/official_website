@@ -29,6 +29,9 @@ footerWrap:
   - title: RCIT知乎专栏
     link: https://www.zhihu.com/column/c_1331392380487073792
     details: 知乎专栏
+  - title: RCIT论坛
+    link: https://bbs.rcit.org.cn
+    details: RCIT论坛
 - headline: 🧑🏿‍🤝‍🧑🏿友情链接
   items:
   - title: 文案摸鱼  
