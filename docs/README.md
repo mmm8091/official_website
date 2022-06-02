@@ -83,11 +83,16 @@ RCIT是理想的产物，他将提供一个尽善尽美的合作环境，尽力�
 
 <a-tooltip placement="bottom">
   <template slot="title">
-    wofbi1
+    wofbi
   </template>
   <a-avatar src="/assets/wofbi1.jpeg" :size="54"/>
 </a-tooltip> 
-
+<a-tooltip placement="bottom">
+  <template slot="title">
+    先知
+  </template>
+  <a-avatar src="/assets/飞书20220602-134108.png" :size="54"/>
+</a-tooltip> 
 <p>&nbsp; </p>  
 
 [想为RCIT社员？](/join)
