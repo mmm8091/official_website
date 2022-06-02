@@ -91,7 +91,19 @@ RCIT是理想的产物，他将提供一个尽善尽美的合作环境，尽力�
   <template slot="title">
     先知
   </template>
-  <a-avatar src="/assets/飞书20220602-134108.png" :size="54"/>
+  <a-avatar src="/assets/xianzhi.png" :size="54"/>
+</a-tooltip> 
+<a-tooltip placement="bottom">
+  <template slot="title">
+    王海
+  </template>
+  <a-avatar src="/assets/wanghai.jpg" :size="54"/>
+</a-tooltip> 
+<a-tooltip placement="bottom">
+  <template slot="title">
+    肆零壹柒
+  </template>
+  <a-avatar src="/assets/xiaosi.jpg" :size="54"/>
 </a-tooltip> 
 <p>&nbsp; </p>  
 
