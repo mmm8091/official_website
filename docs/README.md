@@ -108,6 +108,18 @@ RCIT是理想的产物，他将提供一个尽善尽美的合作环境，尽力�
   </template>
   <a-avatar src="/assets/xiaosi.jpg" :size="54"/>
 </a-tooltip> 
+<a-tooltip placement="bottom">
+  <template slot="title">
+    魔法少女莉露露
+  </template>
+  <a-avatar src="/assets/zhangmengchen.png" :size="54"/>
+</a-tooltip> 
+<a-tooltip placement="bottom">
+  <template slot="title">
+    哼哼
+  </template>
+  <a-avatar src="/assets/hengheng.png" :size="54"/>
+</a-tooltip> 
 <p>&nbsp; </p>  
 
 [想为RCIT社员？](/join)
