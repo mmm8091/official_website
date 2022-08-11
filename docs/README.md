@@ -78,10 +78,9 @@ RCIT是理想的产物，他将提供一个尽善尽美的合作环境，尽力�
 <p>&nbsp; </p>  
 
 
-
 ## 成员(排名不分先后)：
 
-<p></p>
+<p>&nbsp; </p>
 
 
 <a-tooltip placement="bottom">
@@ -134,8 +133,6 @@ RCIT是理想的产物，他将提供一个尽善尽美的合作环境，尽力�
 
 ## 友情援助：
 
-<p></p>
-
 <a-tooltip placement="bottom">
   <template slot="title">
     福芦娃
@@ -143,6 +140,16 @@ RCIT是理想的产物，他将提供一个尽善尽美的合作环境，尽力�
   <a-avatar src="/assets/hudou.jpg" :size="54"/>
 </a-tooltip>
 
+<p>&nbsp; </p> 
 
+## 捐款:
+
+<p>&nbsp; </p>
+
+
+
+<p>&nbsp; </p>
+
+[帮助我们？](/archives/sponsor.html)
 
 <Msg />
