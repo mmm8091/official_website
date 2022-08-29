@@ -131,6 +131,12 @@ RCIT是理想的产物，他将提供一个尽善尽美的合作环境，尽力�
   </template>
   <a-avatar src="/assets/motian.jpg" :size="54"/>
 </a-tooltip> 
+<a-tooltip placement="bottom">
+  <template slot="title">
+    吴谦观
+  </template>
+  <a-avatar src="/assets/wuqianguan.jpg" :size="54"/>
+</a-tooltip> 
 <p>&nbsp; </p>  
 
 [想为RCIT社员？](/join)
