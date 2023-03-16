@@ -24,7 +24,7 @@ footerWrap:
 - headline: 💬社区交流
   items:
   - title: RCIT讨论群  
-    link: https://jq.qq.com/?_wv=1027&k=QWuEfKur
+    link: https://jq.qq.com/?_wv=1027&k=zlu7oeMw
     details: QQ交流群
   - title: RCIT知乎专栏
     link: https://www.zhihu.com/column/c_1331392380487073792
