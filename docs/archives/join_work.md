@@ -12,7 +12,7 @@ RCIT红码合作社非常欢迎大家参与建设,RCIT红码合作社现在急�
 
 ## 参与工作
 
-1. [加入QQ讨论群](/join),我们在QQ群内进行基本的讨论.
+1. 加入QQ讨论群, [红码IT生产合作社讨论一群(即将满员)](https://jq.qq.com/?_wv=1027&k=tTuWvb3l), [红码IT生产合作社二群](https://jq.qq.com/?_wv=1027&k=zlu7oeMw), 我们在QQ群内进行基本的讨论.
 2. 加入[飞书组织](https://aa5598an1s.feishu.cn/invite/member/AzR-KyCf2VG9V-Uy).我们基于飞书开展工作.在加入飞书有会有人进行接待,了解基本信息并为您指引方向.
 3. 阅读[飞书知识库](https://aa5598an1s.feishu.cn/wiki/),知识库内记录了所有信息.
 4. 在飞书知识库内找到感兴趣的工作,联系负责人,申请加入相应的工作群.
