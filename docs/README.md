@@ -143,9 +143,7 @@ RCIT是理想的产物，他将提供一个尽善尽美的合作环境，尽力�
 </a-tooltip> 
 <p>&nbsp; </p>
 <p>&nbsp; </p>
-
-[想为RCIT社员？](/join)
-
+[想成为RCIT社员？](/join)
 <p>&nbsp; </p> 
 
 ## 友情援助：
