@@ -81,7 +81,6 @@ RCIT是理想的产物，他将提供一个尽善尽美的合作环境，尽力�
 
 <p>&nbsp; </p>
 
-
 <a-tooltip placement="bottom">
   <template slot="title">
     wofbi
@@ -142,6 +141,8 @@ RCIT是理想的产物，他将提供一个尽善尽美的合作环境，尽力�
   </template>
   <a-avatar src="https://q1.qlogo.cn/g?b=qq&nk=430316770&s=100" :size="54"/>
 </a-tooltip> 
+<p>&nbsp; </p>
+
 <p>&nbsp; </p>
 
 [想为RCIT社员？](/join)
