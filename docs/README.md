@@ -126,17 +126,23 @@ RCIT是理想的产物，他将提供一个尽善尽美的合作环境，尽力�
 </a-tooltip> 
 <a-tooltip placement="bottom">
   <template slot="title">
-    墨天
-  </template>
-  <a-avatar src="/assets/motian.jpg" :size="54"/>
-</a-tooltip> 
-<a-tooltip placement="bottom">
-  <template slot="title">
     吴谦观
   </template>
   <a-avatar src="/assets/wuqianguan.jpg" :size="54"/>
 </a-tooltip> 
-<p>&nbsp; </p>  
+<a-tooltip placement="bottom">
+  <template slot="title">
+    bachelor
+  </template>
+  <a-avatar src="https://q1.qlogo.cn/g?b=qq&nk=1318011774&s=100" :size="54"/>
+</a-tooltip> 
+<a-tooltip placement="bottom">
+  <template slot="title">
+    卡尔蛙
+  </template>
+  <a-avatar src="https://q1.qlogo.cn/g?b=qq&nk=430316770&s=100" :size="54"/>
+</a-tooltip> 
+<p>&nbsp; </p>
 
 [想为RCIT社员？](/join)
 
@@ -157,9 +163,9 @@ RCIT是理想的产物，他将提供一个尽善尽美的合作环境，尽力�
 
 <p>&nbsp; </p>
 
-<b>@高阳 200￥ @顾越 100￥ @刘泽鹏 500￥ @墨天 1￥ @纳兰性急 50￥ @苏禾 23.77￥ @王海 700 ￥ @小肆 50￥ @张萌辰 200￥ @张鹏 100 ￥ @震动 4￥</b>
+<b>@高阳 200￥ @顾越 100￥ @网络服务团购群 38.29￥ @九号球 1￥ @刘泽鹏 500￥ @墨天 1￥ @纳兰性急 150￥ @球事编辑部 1￥ @苏禾 23.77￥ @王海 700 ￥ @小肆 50￥ @榆法糖 15￥ @张萌辰 400￥ @张鹏 100 ￥ @震动 4￥ </b>
 
-  更新日期: 2023/2/12
+  更新日期: 2023/3/24
 
 <p>&nbsp; </p>
 
