@@ -1,7 +1,7 @@
 module.exports = {
     title: "RCIT 红码工合社",
     theme: "antdocs",
-    description: "一个致力于集体所有制经济的组织",
+    description: "一个致力于先进集体所有制经济模式的组织",
     base: "/",
     head: [
         ["link", { rel: "icon", href: "/assets/logo.png" }],
