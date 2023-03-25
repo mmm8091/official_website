@@ -4,12 +4,12 @@ module.exports = [
     link: '/'
   },
   {
-    text: '关于我们',
-    link: '/about/'
-  },
-  {
     text: '档案',
     link: '/archives/'
+  },
+  {
+    text: '关于我们',
+    link: '/about/'
   },
   {
     text: '加入',
