@@ -33,7 +33,11 @@ npm run build
 
 ## 问题
 
-在 node.js 17 及更高版本的环境下, 会出现兼容性问题, 原因是 node.js 17 版本中使用了的OpenSSL3.0, 而OpenSSL3.0对允许算法和密钥大小增加了严格的限制. node.js 16 不会出现这个问题.
+```
+Error: error:0308010C:digital envelope routines::unsupported
+```
+
+这个问题是在 node.js 17 及更高版本的环境下, 会出现兼容性的问题, 原因是 node.js 17 版本中使用了的OpenSSL3.0, 而OpenSSL3.0对允许算法和密钥大小增加了严格的限制. node.js 16 不会出现这个问题.
 
 可行的解决方案: 
 
