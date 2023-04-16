@@ -141,6 +141,36 @@ RCIT是理想的产物，他将提供一个尽善尽美的合作环境，尽力�
   </template>
   <a-avatar src="https://q1.qlogo.cn/g?b=qq&nk=430316770&s=100" :size="54"/>
 </a-tooltip> 
+<a-tooltip placement="bottom">
+  <template slot="title">
+    高阳
+  </template>
+  <a-avatar src="/assets/gaoyang.jpg" :size="54"/>
+</a-tooltip> 
+<a-tooltip placement="bottom">
+  <template slot="title">
+    E_10
+  </template>
+  <a-avatar src="https://q1.qlogo.cn/g?b=qq&nk=2696313727&s=100" :size="54"/>
+</a-tooltip> 
+<a-tooltip placement="bottom">
+  <template slot="title">
+    许艺菲
+  </template>
+  <a-avatar src="https://q1.qlogo.cn/g?b=qq&nk=3551716471&s=100" :size="54"/>
+</a-tooltip> 
+<a-tooltip placement="bottom">
+  <template slot="title">
+    榆法糖
+  </template>
+  <a-avatar src="https://q1.qlogo.cn/g?b=qq&nk=3528828560&s=100" :size="54"/>
+</a-tooltip> 
+<a-tooltip placement="bottom">
+  <template slot="title">
+    涧西雾思
+  </template>
+  <a-avatar src="https://q1.qlogo.cn/g?b=qq&nk=3614267764&s=100" :size="54"/>
+</a-tooltip> 
 <p>&nbsp; </p>
 
 [想成为RCIT社员？](/join)
